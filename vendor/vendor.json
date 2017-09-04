@@ -1,0 +1,25 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "MerrMqEjlWoQWmUfokgD8aoTLvo=",
+			"path": "github.com/huandu/facebook",
+			"revision": "e104ea5a3c4953b6f11568043bc05abbb5774113",
+			"revisionTime": "2017-09-03T15:42:38Z"
+		},
+		{
+			"checksumSHA1": "gKyBj05YkfuLFruAyPZ4KV9nFp8=",
+			"path": "github.com/julienschmidt/httprouter",
+			"revision": "975b5c4c7c21c0e3d2764200bf2aa8e34657ae6e",
+			"revisionTime": "2017-04-30T22:20:11Z"
+		},
+		{
+			"checksumSHA1": "I778b2sbNN/yjwKSdb3y7hz2yUQ=",
+			"path": "github.com/rs/cors",
+			"revision": "eabcc6af4bbe5ad3a949d36450326a2b0b9894b8",
+			"revisionTime": "2017-08-01T07:32:01Z"
+		}
+	],
+	"rootPath": "github.com/aligos/fbsharecount"
+}
